@@ -1,0 +1,5 @@
+package Creatures;
+
+public enum NatureType {
+    WOLF, SNAKE, FOX, BEAR, EAGLE, HORSE, DEER, RABBIT, BUFFALO, GOAT, SHEEP, MOUSE, HOG, DUCK, CATERPILLAR, GRASS, BERRIES
+}
